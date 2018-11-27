@@ -14,7 +14,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http:joshua0128.github.io/alphawiki/
+url: https:joshua0128.github.io/alphawiki/
 root: /alphawiki/
 permalink: wiki/:title/
 permalink_defaults:
@@ -121,9 +121,12 @@ sitemap:
 theme: Wikitten
 
 
+
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: https://github.com/Joshua0128/alphawiki.git
   branch: master
+
