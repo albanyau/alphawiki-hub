@@ -5,7 +5,7 @@ date: 2018-11-27 21:44:23
 tags: 
 - education
 - Li
-categories: share
+categories: Share
 ---
 ## 摘要
 探月學院相信一所未來學校不是被關在辦公室的人們籌備完成的，是以用戶為中心並不斷根據其反饋進行調整，形成開發-測試-迭代的高效循環
